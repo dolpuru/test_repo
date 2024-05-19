@@ -1,2 +1,1 @@
-print("a")
-print("feat-1")
+print("abc")
